@@ -1,0 +1,46 @@
+body{
+  font-family: Arial, sans-serif;
+  background: #fff0f6;
+  text-align: center;
+  margin: 0;
+}
+
+.container{
+  width: 85%;
+  margin: auto;
+  padding: 20px;
+}
+
+nav a{
+  margin: 8px;
+  text-decoration: none;
+  color: #c2185b;
+  font-weight: bold;
+}
+
+img{
+  width: 260px;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+button{
+  padding: 12px 22px;
+  font-size: 18px;
+  background: #e91e63;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.heart{
+  position: fixed;
+  font-size: 22px;
+  animation: float 4s linear infinite;
+}
+
+@keyframes float{
+  from{ transform: translateY(0); }
+  to{ transform: translateY(-900px); }
+}
