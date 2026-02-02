@@ -1,0 +1,27 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav><a href="page2.html">Next</a></nav>
+
+<div class="container">
+<h2>Us</h2>
+<img src="https://source.unsplash.com/featured/?couple,phone">
+
+<p>
+You came into my life quietly and changed it without trying.  
+We didn’t need grand moments to feel close, just simple talks.  
+Even with oceans between us, you feel part of my everyday routine.  
+Those nights we fall asleep on call feel more real than anything.  
+Sometimes we talk, sometimes we just exist in silence.  
+I learned that love doesn’t need touch to grow.  
+It grows in patience, in waiting, in staying.  
+You became my calm place in a noisy world.  
+Distance is just a situation, not our story.  
+What we built feels safe and real.
+</p>
+</div>
+</body>
+</html>
