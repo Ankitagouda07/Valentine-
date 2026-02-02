@@ -1,0 +1,28 @@
+<html>
+<head><link rel="stylesheet" href="style.css"></head>
+<body>
+
+<nav>
+<a href="page1.html">Back</a>
+<a href="page3.html">Next</a>
+</nav>
+
+<div class="container">
+<h2>Our Nights</h2>
+<img src="https://source.unsplash.com/featured/?night,call">
+
+<p>
+Falling asleep with the call on became our tradition.  
+You talking half sleepy, me pretending not to be tired.  
+The phone between us feels like a thin pillow.  
+Even silence with you is never awkward.  
+Sometimes the call drops and I feel empty.  
+I imagine the day we won’t need screens anymore.  
+No network problems, just us in one room.  
+Until then these calls are my favorite place.  
+They remind me distance is temporary.  
+But what we have is not.
+</p>
+</div>
+</body>
+</html>
